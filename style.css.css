@@ -1,0 +1,15 @@
+img{
+    width: 500px;
+    height: 150px;
+}
+#middle{
+    align-items: center;
+    text-align: center;
+}
+p{
+    text-align: right;
+}
+a{
+    text-decoration: none;
+    color: rgb(106, 106, 109);
+}
